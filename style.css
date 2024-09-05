@@ -7,15 +7,11 @@
 }
 
 @font-face {
-    font-family: EightBit;
-    src: url(Asset\Fonts\8bit.ttf)
-    format("truetype");
-}
-
-@font-face {
     font-family: Eight;
-    src: url(Asset\Fonts\eight.ttf)
-    format("truetype");
+    src: url(Asset\Fonts\8bit.otf) format("opentype"),
+    url(Asset\Fonts\8bit.woff) format("woff"),
+    url(Asset\Fonts\8bit.woff2) format("woff2"),
+    url(Asset\Fonts\8bit.ttf) format("truetype");
 }
 
 h1 {font-family: Eight;
