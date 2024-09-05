@@ -1,0 +1,22 @@
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height:40%;
+}
+
+@font-face {
+    font-family: EightBit;
+    src: url('Asset\Fonts\8bit.ttf')
+    format("truetype");
+}
+
+@font-face {
+    font-family: Eight;
+    src: url('Asset\Fonts\eight.ttf')
+    format("truetype");
+}
+
+h1 {font-family: Eight;
+    text-align: center;}
