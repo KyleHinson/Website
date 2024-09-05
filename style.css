@@ -8,13 +8,13 @@
 
 @font-face {
     font-family: EightBit;
-    src: url('Asset\Fonts\8bit.ttf')
+    src: url(Asset\Fonts\8bit.ttf)
     format("truetype");
 }
 
 @font-face {
     font-family: Eight;
-    src: url('Asset\Fonts\eight.ttf')
+    src: url(Asset\Fonts\eight.ttf)
     format("truetype");
 }
 
