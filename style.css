@@ -6,13 +6,11 @@
     height:40%;
 }
 
-@font-face {
-    font-family: Eight;
-    src: url(Asset\Fonts\8bit.woff) format("woff"),
-    url(Asset\Fonts\8bit.woff2) format("woff2"),
-    url(Asset\Fonts\8bit.ttf) format("truetype"),
-    url(Asset\Fonts\8bit.otf) format("opentype");
-}
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
 
-h1 {font-family: Eight;
+h1 {font-family: "Press Start 2P";
     text-align: center;}
