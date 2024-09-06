@@ -1,7 +1,7 @@
 .handjet-title {
     font-family: "Handjet", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
+    font-weight: 750;
     font-style: normal;
     font-variation-settings:
       "ELGR" 1,
@@ -10,5 +10,44 @@
   
 h1{
     text-align: center;
-    font-family: "Handjet";
+    color:#FFFDFA
 }
+
+h2{
+    text-align: center;
+    color:#FFFDFA
+}
+
+h3{
+    text-align: center;
+    color:#FFFDFA;
+    font-family: "Handjet", sans-serif;
+}
+
+h4{
+    text-align: left;
+    color:#FFFDFA;
+    font-family: "Handjet", sans-serif;
+}
+
+.gloria-hallelujah-regular {
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #Gura  {
+    float: right;    
+     margin: 0 0 0 15px;
+    }
+
+br {
+    display: block; /* makes it have a width */
+    content: ""; /* clears default height */
+    margin-top: 3; /* change this to whatever height you want it */
+}
+
+.general {
+    text-decoration-line: underline;
+    text-decoration-color: red;
+  }
