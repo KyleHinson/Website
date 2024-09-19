@@ -30,10 +30,16 @@ h3{
     font-style: normal;
   }
 
-  #Gura  {
-    float: right;    
-     margin: 0 0 0 15px;
-    }
+#Gura  {
+float: right;    
+    margin: 0 0 0 15px;
+}
+
+#Wink {
+float: left;
+    margin: -10 -10 -10 -10px
+}
+
 
 .button {
     background-color: #000000;
